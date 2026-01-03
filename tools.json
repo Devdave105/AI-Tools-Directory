@@ -1,0 +1,304 @@
+{
+  "tools": [
+    {
+      "id": 1,
+      "name": "ChatGPT",
+      "category": "Writing & Content",
+      "description": "Advanced AI chatbot for natural language conversations, content creation, and problem-solving across multiple domains.",
+      "website": "https://chat.openai.com",
+      "logo": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "name": "Midjourney",
+      "category": "Design & Image",
+      "description": "AI-powered image generation tool that creates stunning artwork and designs from text descriptions.",
+      "website": "https://www.midjourney.com",
+      "logo": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=100&h=100&fit=crop",
+      "pricing": "paid",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "name": "GitHub Copilot",
+      "category": "Coding & Development",
+      "description": "AI pair programmer that helps you write code faster with intelligent code suggestions and completions.",
+      "website": "https://github.com/features/copilot",
+      "logo": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?w=100&h=100&fit=crop",
+      "pricing": "paid",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "name": "Jasper AI",
+      "category": "Marketing & SEO",
+      "description": "AI copywriting assistant for creating marketing content, blog posts, and social media copy at scale.",
+      "website": "https://www.jasper.ai",
+      "logo": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=100&h=100&fit=crop",
+      "pricing": "paid",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "name": "Notion AI",
+      "category": "Productivity",
+      "description": "Integrated AI assistant within Notion that helps with writing, brainstorming, and organizing information.",
+      "website": "https://www.notion.so/product/ai",
+      "logo": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "name": "Runway ML",
+      "category": "Video & Audio",
+      "description": "AI-powered video editing suite with text-to-video generation and advanced editing capabilities.",
+      "website": "https://runwayml.com",
+      "logo": "https://images.unsplash.com/photo-1492619375914-88005aa9e8fb?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": true
+    },
+    {
+      "id": 7,
+      "name": "Copy.ai",
+      "category": "Writing & Content",
+      "description": "AI writing tool that generates marketing copy, blog content, and social media posts in seconds.",
+      "website": "https://www.copy.ai",
+      "logo": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 8,
+      "name": "Perplexity AI",
+      "category": "Education & Research",
+      "description": "AI-powered search engine and research assistant that provides accurate answers with citations.",
+      "website": "https://www.perplexity.ai",
+      "logo": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 9,
+      "name": "Synthesia",
+      "category": "Video & Audio",
+      "description": "Create professional AI videos with AI avatars and voiceovers without cameras or actors.",
+      "website": "https://www.synthesia.io",
+      "logo": "https://images.unsplash.com/photo-1533279443086-d1c19a186416?w=100&h=100&fit=crop",
+      "pricing": "paid",
+      "featured": false
+    },
+    {
+      "id": 10,
+      "name": "DALL-E 3",
+      "category": "Design & Image",
+      "description": "Advanced AI image generator from OpenAI that creates highly detailed images from text descriptions.",
+      "website": "https://openai.com/dall-e-3",
+      "logo": "https://images.unsplash.com/photo-1547891654-e66ed7ebb968?w=100&h=100&fit=crop",
+      "pricing": "paid",
+      "featured": false
+    },
+    {
+      "id": 11,
+      "name": "Grammarly",
+      "category": "Writing & Content",
+      "description": "AI-powered writing assistant that helps with grammar, spelling, and style improvements.",
+      "website": "https://www.grammarly.com",
+      "logo": "https://images.unsplash.com/photo-1456324504439-367cee3b3c32?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 12,
+      "name": "Zapier",
+      "category": "Productivity",
+      "description": "Automation platform that connects your apps and automates workflows with AI-powered suggestions.",
+      "website": "https://zapier.com",
+      "logo": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 13,
+      "name": "ElevenLabs",
+      "category": "Video & Audio",
+      "description": "AI voice generation and cloning platform with realistic text-to-speech capabilities.",
+      "website": "https://elevenlabs.io",
+      "logo": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 14,
+      "name": "Cursor",
+      "category": "Coding & Development",
+      "description": "AI-first code editor that helps you write, edit, and debug code with AI assistance.",
+      "website": "https://cursor.sh",
+      "logo": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 15,
+      "name": "Canva AI",
+      "category": "Design & Image",
+      "description": "Design platform with AI-powered features for creating graphics, presentations, and social media content.",
+      "website": "https://www.canva.com/ai-image-generator",
+      "logo": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 16,
+      "name": "TradingView AI",
+      "category": "Trading & Finance",
+      "description": "Advanced charting platform with AI-powered market analysis and trading signal detection.",
+      "website": "https://www.tradingview.com",
+      "logo": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 17,
+      "name": "SEMrush AI",
+      "category": "Marketing & SEO",
+      "description": "Comprehensive SEO and digital marketing toolkit with AI-powered keyword research and content optimization.",
+      "website": "https://www.semrush.com",
+      "logo": "https://images.unsplash.com/photo-1432888622747-4eb9a8f2c293?w=100&h=100&fit=crop",
+      "pricing": "paid",
+      "featured": false
+    },
+    {
+      "id": 18,
+      "name": "Otter.ai",
+      "category": "Productivity",
+      "description": "AI meeting assistant that records audio, writes notes, and generates summaries automatically.",
+      "website": "https://otter.ai",
+      "logo": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 19,
+      "name": "Replit AI",
+      "category": "Coding & Development",
+      "description": "Online IDE with AI-powered code generation and debugging for collaborative programming.",
+      "website": "https://replit.com",
+      "logo": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 20,
+      "name": "Krisp",
+      "category": "Video & Audio",
+      "description": "AI-powered noise cancellation for calls and recordings with voice enhancement features.",
+      "website": "https://krisp.ai",
+      "logo": "https://images.unsplash.com/photo-1590959651373-a3db0f38a961?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 21,
+      "name": "Stable Diffusion",
+      "category": "Design & Image",
+      "description": "Open-source AI image generation model for creating custom artwork and designs locally.",
+      "website": "https://stability.ai",
+      "logo": "https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead?w=100&h=100&fit=crop",
+      "pricing": "free",
+      "featured": false
+    },
+    {
+      "id": 22,
+      "name": "Descript",
+      "category": "Video & Audio",
+      "description": "All-in-one audio and video editor with AI transcription, overdub, and editing capabilities.",
+      "website": "https://www.descript.com",
+      "logo": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 23,
+      "name": "Writesonic",
+      "category": "Writing & Content",
+      "description": "AI content generator for articles, blog posts, ads, and landing pages with SEO optimization.",
+      "website": "https://writesonic.com",
+      "logo": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 24,
+      "name": "Gamma",
+      "category": "Productivity",
+      "description": "AI-powered presentation creator that generates beautiful slides from text prompts.",
+      "website": "https://gamma.app",
+      "logo": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 25,
+      "name": "Claude AI",
+      "category": "Writing & Content",
+      "description": "Advanced AI assistant by Anthropic for analysis, writing, coding, and complex reasoning tasks.",
+      "website": "https://claude.ai",
+      "logo": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": true
+    },
+    {
+      "id": 26,
+      "name": "HubSpot AI",
+      "category": "Marketing & SEO",
+      "description": "CRM and marketing platform with AI-powered content generation and customer insights.",
+      "website": "https://www.hubspot.com/artificial-intelligence",
+      "logo": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 27,
+      "name": "Duolingo Max",
+      "category": "Education & Research",
+      "description": "Language learning app enhanced with AI for personalized lessons and conversational practice.",
+      "website": "https://www.duolingo.com",
+      "logo": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 28,
+      "name": "Tavily AI",
+      "category": "Education & Research",
+      "description": "AI research assistant that helps gather, analyze, and synthesize information from multiple sources.",
+      "website": "https://tavily.com",
+      "logo": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 29,
+      "name": "Quantconnect",
+      "category": "Trading & Finance",
+      "description": "Algorithmic trading platform with AI-powered backtesting and strategy development tools.",
+      "website": "https://www.quantconnect.com",
+      "logo": "https://images.unsplash.com/photo-1642790551116-18e150f248e8?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    },
+    {
+      "id": 30,
+      "name": "Framer AI",
+      "category": "Design & Image",
+      "description": "Website design tool with AI-powered generation and responsive design automation.",
+      "website": "https://www.framer.com",
+      "logo": "https://images.unsplash.com/photo-1581291518633-83b4ebd1d83e?w=100&h=100&fit=crop",
+      "pricing": "freemium",
+      "featured": false
+    }
+  ]
+}
